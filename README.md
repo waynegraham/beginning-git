@@ -30,7 +30,7 @@ Follow the format Follow the format [here](http://tbaggery.com/2008/04/19/a-note
 Sample:
 
 ```
-Finished challenge 1 (ls).
+Finished challenge 1 (git init).
 
   * git init .
 ```
