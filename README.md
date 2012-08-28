@@ -32,11 +32,7 @@ Sample:
 ```
     Finished challenge 1 (ls).
 
-    * ls --foo
-    * ls -1 \
-         --foo \
-         --bar \
-    * ls --bar -H
+    * git init .
 ```
 
 ## More info
